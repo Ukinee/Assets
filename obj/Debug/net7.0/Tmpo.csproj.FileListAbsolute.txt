@@ -1,0 +1,15 @@
+C:\Users\xperi\RiderProjects\Tmpo\bin\Debug\net7.0\Tmpo.exe
+C:\Users\xperi\RiderProjects\Tmpo\bin\Debug\net7.0\Tmpo.deps.json
+C:\Users\xperi\RiderProjects\Tmpo\bin\Debug\net7.0\Tmpo.runtimeconfig.json
+C:\Users\xperi\RiderProjects\Tmpo\bin\Debug\net7.0\Tmpo.dll
+C:\Users\xperi\RiderProjects\Tmpo\bin\Debug\net7.0\Tmpo.pdb
+C:\Users\xperi\RiderProjects\Tmpo\obj\Debug\net7.0\Tmpo.csproj.AssemblyReference.cache
+C:\Users\xperi\RiderProjects\Tmpo\obj\Debug\net7.0\Tmpo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xperi\RiderProjects\Tmpo\obj\Debug\net7.0\Tmpo.AssemblyInfoInputs.cache
+C:\Users\xperi\RiderProjects\Tmpo\obj\Debug\net7.0\Tmpo.AssemblyInfo.cs
+C:\Users\xperi\RiderProjects\Tmpo\obj\Debug\net7.0\Tmpo.csproj.CoreCompileInputs.cache
+C:\Users\xperi\RiderProjects\Tmpo\obj\Debug\net7.0\Tmpo.dll
+C:\Users\xperi\RiderProjects\Tmpo\obj\Debug\net7.0\refint\Tmpo.dll
+C:\Users\xperi\RiderProjects\Tmpo\obj\Debug\net7.0\Tmpo.pdb
+C:\Users\xperi\RiderProjects\Tmpo\obj\Debug\net7.0\Tmpo.genruntimeconfig.cache
+C:\Users\xperi\RiderProjects\Tmpo\obj\Debug\net7.0\ref\Tmpo.dll
