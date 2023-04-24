@@ -4,8 +4,17 @@ internal static class Program
 {
     private static void Main()
     {
-        
+        WeightedElements<Player> weighted = new();
+
+        weighted.Add(10, new Player())
+
+        Console.WriteLine(weighted);
     }
+}
+
+class Player
+{
+
 }
 
 public class WeightedElements<T> where T : class
@@ -72,26 +81,6 @@ public class WeightedElements<T> where T : class
             return;
 
         callback.Invoke(element);
-    }
-
-    public T? ApplyToRandomElement(Func<T, T> callback)
-    {
-        T? element = GetRandomElement();
-
-        if (element is null)
-            return null;
-
-        return callback.Invoke(element);
-    }
-
-    public TResult? ApplyToRandomElement<TResult>(Func<T, TResult> callback) where TResult : class
-    {
-        T? element = GetRandomElement();
-
-        if (element is null)
-            return null;
-
-        return callback.Invoke(element);
     }
 
     public override string ToString()
